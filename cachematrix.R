@@ -1,4 +1,4 @@
-## these functions create matrix objects that can cache their inverse
+## these functions create custom matrix objects that can cache their inverse
 
 ## generates a special "matrix" object that can cache its inverse
 ## "matrix" is actually a list containing functions to 
